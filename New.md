@@ -1,7 +1,0 @@
-# Notes
-
-demo
-
-demo
-
-demo
