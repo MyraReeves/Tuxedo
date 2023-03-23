@@ -1,6 +1,8 @@
+
 a:link {
     color: #ffe135;
     text-decoration: none;
+    list-style-type: none;
 }
 
 a:hover {
@@ -28,12 +30,13 @@ main { background-color:rgba(0, 128, 128, 0.371);}
 .boxes {
     background-color: #ffe135;
     width: 33%;
-    border-color: #008080 solid 10px;
+    border: #008080 solid 10px;
     margin: 5px;
 }
 
 img {width: 50%;}
 
 footer {background-color: #008080; 
-    color:rgba(0, 128, 128, 0.371);
+    color: white;
+    height: 45px;
 }
