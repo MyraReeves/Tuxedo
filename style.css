@@ -1,0 +1,39 @@
+a:link {
+    color: #ffe135;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+        color: #ffe135;
+      }
+
+header {
+    background-color: #008080;
+    color: white;
+    
+}
+
+
+
+
+main { background-color:rgba(0, 128, 128, 0.371);}
+
+#intro{ font-weight: bold;}
+
+.boxes {
+    background-color: #ffe135;
+    width: 33%;
+    border-color: #008080 solid 10px;
+    margin: 5px;
+}
+
+img {width: 50%;}
+
+footer {background-color: #008080; 
+    color:rgba(0, 128, 128, 0.371);
+}
