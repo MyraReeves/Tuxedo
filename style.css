@@ -2,7 +2,6 @@
 a:link {
     color: #ffe135;
     text-decoration: none;
-    list-style-type: none;
 }
 
 a:hover {
@@ -10,14 +9,13 @@ a:hover {
     text-decoration: none;
 }
 
-a:visited {
-        color: #ffe135;
-      }
+
 
 header {
     background-color: #008080;
     color: white;
-    
+    margin: 5px;
+    border: black solid 10px;
 }
 
 
@@ -27,11 +25,14 @@ main { background-color:rgba(0, 128, 128, 0.371);}
 
 #intro{ font-weight: bold;}
 
+h2 {text-align: center;}
+
 .boxes {
     background-color: #ffe135;
-    width: 33%;
+    width: 30%;
     border: #008080 solid 10px;
     margin: 5px;
+    display: inline-block;
 }
 
 img {width: 50%;}
@@ -39,4 +40,6 @@ img {width: 50%;}
 footer {background-color: #008080; 
     color: white;
     height: 45px;
+    margin: 5px;
+    border: black solid 10px;
 }
