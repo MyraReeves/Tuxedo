@@ -1,5 +1,5 @@
 function leashes() {
-    let LeashGuesses = prompt("Your entry is barred by an excited Tux! He wants to play a game! Can you guess what color Tux wears most often?");
+    let LeashGuesses = prompt("Your entry is blocked by an excited Tux! He wants to play a game! Can you guess what color Tux wears most often?");
 
     while (LeashGuesses != 'teal') {
         LeashGuesses = prompt("Doggie farts! That's not it. Keep guessing!  Hint: It's the name for color code #008080 written without any capitalization.");
