@@ -2,7 +2,7 @@
 
 This is a demo first GitHub website created for CodeFellows Course 102
 
-Below are copied instructions that were inside the lab assignments on Canvas.  The words were written by [CodeFellows](https://www.codefellows.org/) curriculum staff.
+Below are copied instructions that were inside the lab assignments on Canvas.  The words were written by [CodeFellows](https://www.codefellows.org/) curriculum staff for March 2023.
 
 <br>
 
@@ -36,4 +36,17 @@ Requirements
 Submission Instructions
 * Submit your live url after deploying your site with GitHub pages. Check out what other people built, as well.
 
+<br>
+
+## 2️⃣ Lab Instructions for Hand-Rolled CSS
+
+Team up with your partner and add some styles to the structure you built from the wireframe.
+
+Setup and Documentation
+* Start by going back to the whiteboard. Recreate your wireframe, and work with your partner to identify what styles you can apply.
+* Utilize coordinated colors from a color-scheme web site like Adobe’s. Label your wireframe with what colors go where.
+* Now is a good time to develop your Google-fu. As you identify specific things you’d like to accomplish in your design, see if you can craft a google search that brings you the answer. Implement what you find, to practice writing CSS.
+
+Submission Instructions
+* Share your site url once again, so people can compare the before and the after. As you check out the work others did, try guessing at which tags are where!
 
