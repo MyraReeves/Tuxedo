@@ -9,14 +9,12 @@ a:hover {
 }
 
 
-
 header {
     background-color: #008080;
     color: white;
     margin: 5px;
     border: black solid 10px;
 }
-
 
 
 
@@ -48,6 +46,8 @@ h2 {
 .puppers {
     margin-top: 150px;
 }
+
+
 
 footer {
     background-color: #008080;
