@@ -1,6 +1,6 @@
 # Tux - A Boston Terrier's Website
 
-This is a demo website created as a five-part group project for CodeFellows Beginner Course 102.  It was created in collaboration with [Dan Quinn](https://www.linkedin.com/in/dan-quinn-70798726b/) to create a mock website showcasing his adorable dog named Tux.  The assignment instructions below were written by [CodeFellows](https://www.codefellows.org/) curriculum staff.
+This is a demo website created as a five-part group project for CodeFellows Beginner Course 102.  It was created in collaboration with [Dan Quinn](https://www.linkedin.com/in/dan-quinn-70798726b/) to create a mock website showcasing his adorable dog named Tuxedo ("Tux").  The assignment instructions below were written by [CodeFellows](https://www.codefellows.org/) curriculum staff.
 
 <br>
 
