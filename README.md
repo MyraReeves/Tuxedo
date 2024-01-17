@@ -4,7 +4,7 @@ This is a demo website created as a five-part group project for CodeFellows Begi
 
 <br>
 
-## 1️⃣ Lab Instructions for HTML-Only Website from Scratch:
+## 1️⃣ Step 1 - HTML-Only Website from Scratch:
 
 Requirements
 * Partner up. Decide on a topic for the web site you want to build. Each person will be responsible for 1 page of the site.
@@ -29,7 +29,7 @@ Requirements
 
 <br>
 
-## 2️⃣ Lab Instructions for Hand-Rolled CSS Addition:
+## 2️⃣ Step 2 - Hand-Rolled CSS:
 
 Team up with your partner and add some styles to the structure you built from the wireframe.
 
@@ -40,7 +40,7 @@ Setup and Documentation
 
 <br>
 
-## 3️⃣ Dynamic Page Additions with JavaScript:
+## 3️⃣ Step 3 - Dynamic Page Additions with JavaScript:
 
 Review your page’s wireframe. Look at the content, and select a few places where you could add in something dynamic.
 
@@ -51,7 +51,7 @@ Requirements
 
 <br>
 
-## 4️⃣ Refactoring with JS Functions
+## 4️⃣ Step 4 - Refactoring with JS Functions:
 
 Requirements
 * Use functions to improve the clarity and readability of your code.
@@ -60,7 +60,7 @@ Requirements
 
 <br>
 
-## 5️⃣ Loop the Loop
+## 5️⃣ Step 5 - Loop the Loop:
 
 Work from your existing code base. If it’s not a git repo yet, take a minute to set it up to sync to your account on GitHub.
 
